@@ -5,6 +5,9 @@ Useful as a quick check for available IP addresses
 Pauses after first 10 IPs pinged
 Not very fast..
 
+Usage:
+pingsweep.py <x.x.x.0>
+
 netpacket.net
 '''
 import sys, subprocess, msvcrt

@@ -1,8 +1,13 @@
 '''
 Roaming script, print basic wireless parameters on Windows client
+
 Saves output to CSV
 "SSID:XXXXXXXX BSSID:XX:XX:XX:XX:XX:XX Channel:XX Signal:XX% TX:XXX"
+
+Usage: roamwindows.py
+
 Tested on Windows 10
+
 netpacket.net
 '''
 from datetime import datetime

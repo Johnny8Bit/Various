@@ -1,6 +1,13 @@
 '''
 Encodes & decodes DHCP option 43 HEX strings used for Cisco APs
 
+Usage (Encode):
+opt43.py <wlc_ip_1> <wlc_ip_2> <wlc_ip_N>
+
+Usage (Decode):
+opt43.py <option43_hex>
+
+
 netpacket.net
 '''
 import sys
