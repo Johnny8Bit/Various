@@ -1,5 +1,5 @@
 '''
-Merges all CSV files in current woring directory into single CSV file
+Merges all CSV files in current working directory into single CSV file
 
 '''
 import os
